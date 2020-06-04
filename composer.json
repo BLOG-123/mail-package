@@ -1,5 +1,5 @@
 {
-    "name": "package/contact",
+    "name": "shpackage/contact",
     "description": "this will send email to admin and save database query",
     "type": "library",
     "license": "MIT",
