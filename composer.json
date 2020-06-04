@@ -14,7 +14,7 @@
 
     "autoload": {
         "psr-4": {
-            "Package\\Contact\\": "src/"
+            "package\\contact\\": "src/"
         }
     },
 }
