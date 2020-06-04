@@ -1,0 +1,20 @@
+{
+    "name": "package/contact",
+    "description": "this will send email to admin and save database query",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shoshi",
+            "email": "shraif18@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Package\\Contact\\": "src/"
+        }
+    },
+}
